@@ -1,0 +1,2 @@
+# ScDepes
+Kumpulan script deface
